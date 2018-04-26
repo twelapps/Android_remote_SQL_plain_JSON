@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/twelh/Documents/Mobile Infrastructure/MIS-17-18-blok4/Week3-REST_backends/ReminderDemo_week2_remote_sql_no_retrofit/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/twelh/Documents/Mobile Infrastructure/MIS-17-18-blok4/Week3-REST_backends/ReminderDemo_week2_remote_sql_no_retrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d75a788a3d382a78d5216c5fe39d3e4b7fc51741/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/twelh/Documents/Mobile Infrastructure/MIS-17-18-blok4/Week3-REST_backends/ReminderDemo_week2_remote_sql_no_retrofit/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a3cb0b59416bb5dcf324b0705540d83591ecf0a">
+        <dex dex="/Users/twelh/Documents/Mobile Infrastructure/MIS-17-18-blok4/Week3-REST_backends/ReminderDemo_week2_remote_sql_no_retrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ac018afd1d2989b0d9c0ce3e40a30ca14474c56b/classes.dex" />
+    </item>
+
+</items>
